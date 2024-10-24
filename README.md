@@ -1,4 +1,4 @@
-# Cyan Addons
+# Cyan Mod
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (especially F7/M7).
 
 Questions that were never asked but will be answered:
@@ -7,13 +7,14 @@ Questions that were never asked but will be answered:
 
 # Features:
 
- - Auto Terms <br>
- - Invwalker <br>
- - Funnymap <br>
- - Esp <br>
+ - Item Highlight <br>
+ - Starred Mob Highlight <br>
+ - Secret Tracker <br>
+ - Shadow Assassin Warning <br>
  - Party Commands <br>
  - Auto Kick <br>
  - SBE Blood Fix <br>
+ - Perm Party Helper <br>
  and more!
 
 
@@ -29,4 +30,4 @@ Enjoy!
 
 # Required modules:
 
-PromiseV2, BloomCore, fparser, requestV2, Vigilance, PogData, RenderLib
+PromiseV2, BloomCore, fparser, requestV2, Vigilance, PogData, RenderLib (should auto-install them)
