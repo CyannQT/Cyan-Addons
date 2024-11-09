@@ -1,4 +1,4 @@
-# UwUAddons
+# CyanAddons
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (especially F7/M7).
 
 Questions that were never asked but will be answered:
