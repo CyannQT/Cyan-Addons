@@ -15,6 +15,9 @@ Questions that were never asked but will be answered:
  - Auto Kick <br>
  - SBE Blood Fix <br>
  - Perm Party Helper <br>
+ - Refill pearls
+ - F7-M7 Utilities
+ - Loot Tracker
  and more!
 
 
