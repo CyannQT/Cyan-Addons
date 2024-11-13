@@ -29,6 +29,8 @@ Download the latest version
 
 Extract the .7z into the ChatTriggers modules folder.
 
+In game, do /ct reload
+
 Enjoy!
 
 # Required modules:
